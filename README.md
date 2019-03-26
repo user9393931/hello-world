@@ -1,2 +1,3 @@
 # hello-world
-Going through the nicely written newbie guide, thanks by the way
+
+See the number? it's a galois prime.
